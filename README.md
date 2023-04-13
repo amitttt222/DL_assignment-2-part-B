@@ -8,7 +8,7 @@ The inaturalist12k dataset is a large-scale image classification dataset that co
 ## Objective<br/>
 The objective of this project is to fine-tune the pre-trained GoogleNet model to accurately classify images from the inaturalist12k dataset. Fine-tuning involves taking a pre-trained model and adapting it to a new dataset by re-training the last few layers of the model. By fine-tuning the GoogleNet model on the inaturalist12k dataset, we aim to achieve high accuracy in classifying images from the dataset. This can have practical applications in various fields, including ecology, conservation biology, and agriculture.
 ## Folder Structure<br/>
-these below files contain the required code for second assignment part B
+these below files contain the required code for second assignment part B<br/>
 googlenet-1.ipynb.ipynb<br/>
 train.py<br/>
 README.MD<br/>
